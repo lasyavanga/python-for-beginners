@@ -1,0 +1,1 @@
+print("Hello! I can't come to the office today.")
